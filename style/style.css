@@ -1,3 +1,5 @@
+/* Singin page */
+
 #form_body{
     background-color: rgb(41, 37, 37);
 }
@@ -32,4 +34,33 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* First Page */
+#first_page {
+    background-color: rgb(238, 164, 164);
+    height: 50px;
+    display: flex;
+    justify-content: center; /* Center the navbar horizontally */
+    align-items: center; /* Center the navbar vertically */
+}
+
+ul {
+    display: flex;
+    justify-content: center; /* Center all list items */
+    align-items: center; /* Center items vertically */
+    gap: 10 0px; /* Add space between the items */
+    margin: 0;
+    padding: 0;
+}
+
+li > a {
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+    padding: 5px 10px; /* Add padding inside the links */
+    text-align: center; /* Align text inside links */
+}
+
+li {
+    list-style: none;
 }
