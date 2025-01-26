@@ -1,0 +1,35 @@
+#form_body{
+    background-color: rgb(41, 37, 37);
+}
+#form_head{
+    background-color: aqua;
+}
+
+.form_main_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+#form_p{
+    margin-left: 500px;
+}
+.form_pic{
+    margin-top: 20px;
+}
+#form_main{
+    background-color: aquamarine;
+    text-align: center;
+}
+#last{
+    padding-bottom: 20px;
+}
+footer{
+    background-color:rgb(30, 77, 78);
+    height: 200px;
+    width:auto;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
