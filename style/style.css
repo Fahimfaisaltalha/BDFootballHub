@@ -64,4 +64,7 @@ li > a {
 li {
     list-style: none;
 }
+#fh1,#fimg{
+    padding-left: 25%;
+}
 
