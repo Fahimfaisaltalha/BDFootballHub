@@ -71,6 +71,9 @@ li {
     background-color: rgb(197, 243, 165);
     padding: 20px;
 }
+
+/* Rankngs */
+
 .rankingteamp{
     display: flex;
     gap: 250px;
@@ -90,4 +93,7 @@ li {
     background-color: rgb(24, 173, 116);
 }
 
-
+.rankingcal{
+    padding: 5px;
+    background-color: antiquewhite;
+}
