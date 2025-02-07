@@ -38,7 +38,7 @@ footer{
 
 /* First Page */
 #first_page {
-    background-color: rgb(44, 43, 43);
+    background-color: rgb(25, 44, 20);
     height: 50px;
     display: flex;
     justify-content: center; /* Center the navbar horizontally */
@@ -46,7 +46,8 @@ footer{
 }
 
 #nav_li>li>a{
-    color: aliceblue;
+    color: rgb(20, 20, 20);
+    
 }
 .button {
     padding: 12px 20px;
@@ -121,7 +122,7 @@ li {
     background-color: antiquewhite;
 }
 .Tdn{
-    background-color: aquamarine;
+    background-color: rgb(145, 181, 247);
     padding: 20px;
 }
 #nj{
