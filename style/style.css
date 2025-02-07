@@ -38,13 +38,36 @@ footer{
 
 /* First Page */
 #first_page {
-    background-color: rgb(238, 164, 164);
+    background-color: rgb(44, 43, 43);
     height: 50px;
     display: flex;
     justify-content: center; /* Center the navbar horizontally */
     align-items: center; /* Center the navbar vertically */
 }
 
+#nav_li>li>a{
+    color: aliceblue;
+}
+.button {
+    padding: 12px 20px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
 ul {
     display: flex;
     justify-content: center; /* Center all list items */
