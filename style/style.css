@@ -20,7 +20,7 @@
     margin-top: 20px;
 }
 #form_main{
-    background-color: aquamarine;
+    background-color: rgb(55, 168, 131);
     text-align: center;
 }
 #last{
@@ -127,4 +127,11 @@ li {
 }
 #nj{
     width: 500px;
+}
+.tdnp{
+    background-color: #c2bbbb;
+}
+.tdnh{
+    background-color: #fff;
+    text-align: center;
 }
