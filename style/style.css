@@ -135,3 +135,17 @@ li {
     background-color: #fff;
     text-align: center;
 }
+.MatchUP{
+    border: 2px black solid;
+    margin-top: 10px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.matchup{
+    border: 2px red solid;
+    
+    height: 150px;
+    width: 200px;
+}
