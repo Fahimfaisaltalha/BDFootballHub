@@ -145,12 +145,19 @@ li {
     justify-content: space-around;
 }
 .matchup{
-    border: 2px red solid;
+    
     
     height: 150px;
-    width: 200px;
+    width: 400px;
+    background-color: #0857eb;
 }
 .matchup>p{
     text-align: center;
+    color: #000000;
 
+}
+.matchp{
+    background-color: #ffffff;
+    height: 50px;
+    
 }
