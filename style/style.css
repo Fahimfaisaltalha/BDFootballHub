@@ -161,3 +161,10 @@ li {
     height: 50px;
     
 }
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.logo>img{
+    margin: 20px;
+}
