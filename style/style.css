@@ -31,11 +31,11 @@ footer{
     height: 200px;
     width:auto;
     color: aliceblue;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
-
+#footer_p{
+    padding-top: 50px;
+}
 /* First Page */
 #first_page {
     background-color: rgb(25, 44, 20);
