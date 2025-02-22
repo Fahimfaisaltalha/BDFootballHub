@@ -20,7 +20,7 @@
     margin-top: 20px;
 }
 #form_main{
-    background-color: rgb(55, 168, 131);
+    background-color: rgb(34, 163, 120);
     text-align: center;
 }
 #last{
@@ -38,7 +38,7 @@ footer{
 }
 /* First Page */
 #first_page {
-    background-color: rgb(25, 44, 20);
+    background-color: #233038;
     height: 50px;
     display: flex;
     justify-content: center; /* Center the navbar horizontally */
@@ -93,7 +93,7 @@ li {
     padding-left: 25%;
 }
 #singupform{
-    background-color: rgb(197, 243, 165);
+    background-color:#2cc197;
     padding: 20px;
 }
 
@@ -115,7 +115,7 @@ li {
     text-align: center;
 }
 .rankings{
-    background-color: rgb(24, 173, 116);
+    background-color: rgb(28, 218, 145);
 }
 
 .rankingcal{
